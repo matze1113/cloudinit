@@ -1,0 +1,7 @@
+tf-cloud-init
+tf-cloud-init.pub
+.terraform.lock.hcl
+/instances/terraform.tfstate.backup
+.terraform
+/instances/terraform.tfstate
+
